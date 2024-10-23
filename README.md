@@ -6,13 +6,13 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="30" height="30" />
           
           
-- 📫 How to reach me: ...
+
 
 ## Visualization Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="80" height="80" />
 
 
-## Contatos:
+## 📫 You can reach me in the links below:
 
 <div>
 <a href="https://www.linkedin.com/in/matheus-fontanella-26ab1683/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
